@@ -75,17 +75,9 @@
   background-repeat: no-repeat
   background-position: top
 
-.subrayado
-  background-image: url('../assets/curso/tema2/subraya.svg')
-  background-size: cover
-  background-repeat: no-repeat
-  background-position: top
-
-.color-texto
-  color: #359547
-
 .fondo12
-  background-color: rgba(53, 149, 71, 0.25) !important
+  background-color: rgba(53, 149, 71, 0.15)
+  border-radius: 20px
 
 .fondo13
   background-color: rgba(53, 149, 71, 0.20) !important
@@ -96,6 +88,51 @@
 
 .fondo15
   background-color: #E1FBFF !important
+
+.fondo16
+  background-color: rgba(53, 149, 71, 0.25) !important
+
+.fondo17
+  background-image: url('../assets/curso/tema1/figura2.svg')
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: contain
+
+.fondo18
+  background-color: rgba(53, 149, 71, 0.20) !important
+  border-radius: 20px
+
+.alineartop
+  vertical-align: text-top
+
+.subrayado
+  background-image: url('../assets/curso/tema2/subraya.svg')
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: top
+
+.subir
+  margin-top: -5%
+
+.correrder
+  margin-left: 8px
+  position: relative
+  z-index: 99999
+
+.correrizq
+  margin-left: -8px
+  position: relative
+  z-index: 1
+
+.recoger
+  max-width: 98.6%
+  margin-left: 8px
+
+.color-texto
+  color: #359547
+
+.acordion__header
+  margin-left: 3em
 
 .tarjeta.tarjeta-slide.arriba.fondo16
   background-color: #E1EFE3 !important
@@ -151,6 +188,10 @@
 .tarjeta.otra3
   height: 436px
 
+.tarjeta.otra4
+  height: 257px
+  width: 328px
+
 .imgsize
   width: 112px
   height: 112px
@@ -158,6 +199,18 @@
 
 .imgsize1
   height: 75%
+
+.imgsize2
+  width: 112px
+  height: 112px
+  margin-top: 5% !important
+
+.imgsize3
+  width: 85px
+  height: 85px
+
+.nuevoalto
+  height: 260px
 
 .slyder-a__bullets__item--active
   background-color: #03386E !important
@@ -210,6 +263,10 @@
 .acordion__activo
   background-color: #FEF5E5 !important
 
+.otroacordion
+  .acordion__activo
+    background-color: #F6F6F6 !important
+
 .margenizq
   margin-left: 10px
 
@@ -222,6 +279,14 @@
 .bordetabla
   border-left: 1px solid #AFAFAF !important
 
+.colorchevron
+  .fa-chevron-right:before
+    content: "\f054" 
+    color: #FCC15A
+  .fa-chevron-left:before
+    content: "\f053"
+    color: #FCC15A
+
 @media (max-width: 1400px)
   .fondo5
     background-size: cover
@@ -230,12 +295,20 @@
     background-size: 100% 100%
   .tarjeta.otra1
     width: 280px
+  .tarjeta.otra4
+    height: 280px
+    width: 275px
 
 @media (max-width: 1200px)
   .tarjeta.otra1
     width: 240px
   .situarimagen
     margin-bottom: -12%
+  .tarjeta.otra4
+    height: 290px
+    width: 230px
+  .nuevoalto
+    height: 320px
 
 @media (max-width: 991px)
   .fondo5
@@ -254,10 +327,28 @@
     height: 350px
   .situarimagen
     margin-bottom: -15%
+  .tarjeta.otra4
+    height: 290px
+    width: 250px
+  .imgsize2
+    width: 100px
+    height: 100px
+    margin-top: 5% !important
+  .correrder
+    margin-left: 0
+  .correrizq
+    margin-left: 0
+  .recoger
+    max-width: 98.6%
+    margin-left: 0
+  .nomuestre
+    display: none
+  .nuevoalto
+    height: 260px
 
 @media (max-width: 768px)
   .tarjeta.otra2
-    height: 330px
+    height: 380px
   .tarjeta.otra1
     width: 400px
   .margenizq
@@ -265,6 +356,13 @@
   .margender
     margin-right: 0
     margin-bottom: 30px
+  .tarjeta.otra4
+    height: 250px
+    width: 410px
+  .imgsize2
+    width: 112px
+    height: 112px
+    margin-top: 5% !important
     
 @media (max-width: 576px)
   .tarjeta.otra2
@@ -273,9 +371,14 @@
     width: 100%
   .tarjeta.otra3
     height: 480px
+  .tarjeta.otra4
+    height: 240px
+    width: 290px
+  .nuevoalto
+    height: 330px
 
 @media (max-width: 430px)
   .tarjeta.otra2
-    height: 400px
+    height: 470px
   .situarimagen
     margin-bottom: -20%

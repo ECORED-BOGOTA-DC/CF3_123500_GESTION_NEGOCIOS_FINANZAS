@@ -38,7 +38,7 @@
     p.my-5 Tomar un riesgo puede resultar en una ganancia o una pérdida porque se conocen los resultados probables, mientras que la incertidumbre viene con probabilidades desconocidas.
     .row.justify-content-center
       .col-lg-10
-        .cajon.color-primario.p-4.mb-4.fondo12
+        .cajon.color-primario.p-4.mb-4.fondo16
           p El plan táctico describe las tácticas que la organización planea usar para lograr las ambiciones descritas en el plan estratégico. Es un documento de mediano alcance (más de un año), de bajo nivel, que responde a cómo voy hacer, cómo voy a ejecutar, cómo voy a lograr la meta y alcanzar los objetivos que se esbozan en los planes estratégicos. La creación de planes tácticos suele estar a cargo de gerentes de nivel medio.
           p El plan táctico incluye los planes de acción para alcanzar las metas/objetivos estratégicos que conducen al logro de planes estratégicos. Estos son más generales o más amplios que los planes operativos.
     .row.justify-content-center
@@ -212,13 +212,13 @@
           td.fondoEncabezado 
             h4 Enfoque
           td.fondoEncabezado 
-            h4 amplitud
+            h4 Amplitud
         tr
-          td Táctico
-          td.bordetabla Mediano plazo
-          td.bordetabla Pasos y acciones que se deben tomar para alcanzar las metas del plan estratégico.
-          td.bordetabla Tareas para asignar a sus colaboradores y qué debe hacer para alcanzar sus objetivos.
-          td.bordetabla Unidad de la empresa
+          td.alineartop Táctico
+          td.bordetabla.alineartop Mediano plazo
+          td.bordetabla.alineartop Pasos y acciones que se deben tomar para alcanzar las metas del plan estratégico.
+          td.bordetabla.alineartop Tareas para asignar a sus colaboradores y qué debe hacer para alcanzar sus objetivos.
+          td.bordetabla.alineartop Unidad de la empresa
 </template>
 
 <script>
