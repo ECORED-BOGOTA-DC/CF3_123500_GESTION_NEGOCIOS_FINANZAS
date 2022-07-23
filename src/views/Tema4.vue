@@ -101,7 +101,252 @@
               p el dinero para el impacto fluye hacia donde están los datos, y una buena implementación de monitoreo y evaluación puede abrir ese flujo, porque genera credibilidad en el impacto y, por supuesto, una comprensión más transparente de cuánto impacto se puede generar por valor de inversión.
     p Cómo implementar monitoreo y evaluación en su organización:
     p.mb-5 La mayoría de las organizaciones comienzan con una estrategia de impacto. Dependiendo de sus antecedentes, diseñarán un enfoque orientado a los resultados.
- 
+    .row.justify-content-center
+      .col-xxl-4.col-xxl-4.col-lg-5.col-md-6.col-sm-10.col-12
+        img.mb-4(src='@/assets/curso/tema4/imagen1.png')  
+      .col-xxl-4.col-xxl-4.col-lg-5.col-md-6.col-sm-10.col-12
+        ul.lista-ul--color
+          li 
+            i.fas.fa-folder-open
+            | Operaciones basadas en resultados.
+          li 
+            i.fas.fa-folder-open
+            | Diseñar métricas de calidad.
+          li 
+            i.fas.fa-folder-open
+            | Uso de herramientas cuantitativas o cualitativas.
+          li 
+            i.fas.fa-folder-open
+            | Definir los indicadores correctos para medir.
+          li 
+            i.fas.fa-folder-open
+            | Distribuir los indicadores a lo largo de los procesos de seguimiento y evaluación.
+    .row.my-5
+      .col-xxl-3.col-xl-3.col-lg-4.col-md-5.col-sm-6.col-7.ps-md-1
+        h4.ps-5.mb-1.fondo17.pb-1 ¿Qué es un indicador?
+    p.mb-5 Un indicador es utilizado para medir algún aspecto de los planes, programas o proyectos en las etapas de planeación de la organización. Esto permite medir verdaderamente hasta qué punto lo que piensan o quieren que suceda realmente sucede. Los indicadores pueden ser tanto cuantitativos como cualitativos; según lo que se necesite medir y de qué manera, se puede ampliar a partir de:
+    .row.justify-content-center
+      .col-xxl-8.col-xl-9.col-lg-10
+        img.nomostrar1.my-2(src='@/assets/curso/tema4/imagencompleta.svg')
+    .row.justify-content-center
+      .col-md-10.col-sm-11.col-12
+        img.nomostrar2.my-2(src='@/assets/curso/tema4/imagen2.svg')
+      .col-md-10.col-sm-11.col-12
+        img.nomostrar2.my-2(src='@/assets/curso/tema4/imagen3.svg')
+      .col-md-10.col-sm-11.col-12
+        img.nomostrar2.my-2(src='@/assets/curso/tema4/imagen4.svg')
+      .col-md-12.col-sm-12.col-12
+        img.nomostrar2.my-2(src='@/assets/curso/tema4/imagen5.svg')
+    .row.my-5
+      .col-xxl-4.col-xl-4.col-lg-5.col-md-7.col-sm-8.col-10.ps-md-1
+        h4.ps-5.mb-1.fondo17.pb-1 Métodos y diseños de evaluación
+    p.mt-5 Determinar un método de evaluación requiere, primero, definir los objetivos únicos de la organización o programa específico. En general, esos objetivos se determinan a través del impacto y lo que se desea evaluar.
+    p.mb-5 Ahora bien, se relacionan a continuación varias perspectivas de evaluación que logran los objetivos organizacionales:
+    .row.justify-content-center
+      .col-xxl-6.col-xl-6.col-lg-7.col-md-11.col-sm-12.col-12
+        img.nomostrar2.my-2(src='@/assets/curso/tema4/imagen6.svg')
+    p.my-5 Parte de la importancia de una evaluación formativa es que puede mejorar la probabilidad de éxito de la planeación porque alienta a confirmar la viabilidad y detectar posibles áreas problemáticas desde el principio, al mismo tiempo que promueve la rendición de cuentas durante la implementación.
+    .row.my-5
+      .col-xxl-4.col-xl-5.col-lg-6.col-md-7.col-sm-10.col-12.ps-md-1
+        h4.ps-5.mb-1.fondo17.pb-1 Informes de seguimiento y evaluación
+    p.mb-5 El monitoreo y la evaluación implementados correctamente pueden generar mejores resultados para las partes interesadas y un mejor retorno de la inversión para descubrir tendencias y tomar decisiones; generalmente, se piensa en recopilar datos en una hoja de cálculo e introducirlos en herramientas de visualización comunes para presentar los informes de este monitoreo y evaluación.
+    .row.justify-content-center
+      .col-xxl-10.col-lg-10.col-xl-10.col-md-12
+        .cajon.color-primario.p-4.mb-4.fondo16
+          p Los informes de seguimiento y evaluación son presentados a la parte directiva de la organización, este documento contiene la información recolectada a través de las actividades y funciones desempeñadas para el cumplimiento de los objetivos que se describen en los diferentes planes. Los directivos utilizan esta información para tomar medidas en la corrección de posibles situaciones que estén fuera de control y que perjudiquen el alcance de las metas. Para llevar a cabo estos informes, previamente se estipularon las intervenciones que suministrarán los datos que se analizan y se plasman en el documento.
+    separador
+    #indicadores.titulo-segundo.color-acento-contenido
+      h2 4.1. Indicadores de gestión
+    p Los indicadores tienen la misión de comunicar, de forma sencilla y a través de la cuantificación, los resultados del proceso o de la operación. Una gestión se basa en el adecuado seguimiento de mediciones preestablecidas también conocidas. Esto se debe a que asegura un seguimiento recurrente del desempeño en tareas esenciales para el crecimiento y la sostenibilidad del negocio. Reinoso y Uribe (2009, p. 17) definen los indicadores de gestión como la medida gerencial que evalúa el desempeño de la organización de cara a los objetivos y metas establecidas.
+    p Algunos indicadores de gestión:
+    p.mb-5 Hay que tener en cuenta que de poco sirven si no forman parte de la planificación estratégica de la empresa:
+    .tarjeta--container.row.mb-5.justify-content-center
+      .col-md.tarjeta.fondo4.p-5.mx-2.mb-4
+        .row.justify-content-center.mb-4
+          .col-5.col-xxl-9.col-xl-9.col-lg-8.col-md-7.col-sm-5
+            figure
+              img(src='@/assets/curso/tema4/imagen7.svg')
+          
+        h3.text-center Rentabilidad
+        p Mide la proporción porcentual entre las ventas totales y la utilidad. Relación entre la ganancia y la inversión.
+
+      .col-md.tarjeta.fondo19.p-5.mx-2.mb-4
+        .row.justify-content-center.mb-4
+          .col-5.col-xxl-9.col-xl-9.col-lg-8.col-md-7.col-sm-5
+            figure
+              img(src='@/assets/curso/tema4/imagen8.svg')
+          
+        h3.text-center Productividad
+        p Mide los diversos recursos -financieros, laborales, de espacio y tiempo- para generar un producto o servicio.
+
+      .col-md.tarjeta.fondo4.p-5.mx-2.mb-4
+        .row.justify-content-center.mb-4
+          .col-5.col-xxl-9.col-xl-9.col-lg-8.col-md-7.col-sm-5
+            figure
+              img(src='@/assets/curso/tema4/imagen9.svg')
+          
+        h3.text-center Rotación
+        p Mide la rotación de los colaboradores de la empresa; si es muy alta, es un problema que requiere revisar estrategias de retención, capacitación, entre otros.
+
+      .col-md.tarjeta.fondo19.p-5.mx-2.mb-4.col-lg-4.col-xl-3.col-xxl-3
+        .row.justify-content-center.mb-4
+          .col-5.col-xxl-9.col-xl-9.col-lg-8.col-md-7.col-sm-5
+            figure
+              img(src='@/assets/curso/tema4/imagen10.svg')
+          
+        h3.text-center Conversión
+        p Mide la cantidad de personas que se convierten en clientes potenciales de la organización.
+    p.my-5 Características de los indicadores de gestión:
+    .row.justify-content-center
+      .col-xxl-4.col-xxl-4.col-lg-4.col-md-10.col-sm-10.col-12
+        img.mb-4(src='@/assets/curso/tema4/imagen1.png')  
+      .col-xxl-8.col-xxl-8.col-lg-8.col-md-12.col-sm-12.col-12
+        ul.lista-ul--color
+          li 
+            i.fas.fa-folder-open
+            | Considere lo que necesitan saber para establecer los indicadores de gestión.
+          li 
+            i.fas.fa-folder-open
+            | Deben realizar un seguimiento de cómo progresan regularmente los objetivos de toda la empresa.
+          li 
+            i.fas.fa-folder-open
+            | Simples de entender y medir.
+          li 
+            i.fas.fa-folder-open
+            | Los colaboradores han de tener conocimiento de qué se les mide y cómo se calcula.
+          li 
+            i.fas.fa-folder-open
+            | Han de estar filtrados con los objetivos estratégicos, tácticos y operativos.
+          li 
+            i.fas.fa-folder-open
+            | Que sean medibles para analizar el desempeño de los colaboradores.
+          li 
+            i.fas.fa-folder-open
+            | Presentar informes sobre los resultados arrojados para que se puedan tomar decisiones oportunas.
+          li 
+            i.fas.fa-folder-open
+            | Que sean visibles en toda una organización para manifestarles a los colaboradores cómo su trabajo está afectando los objetivos generales de la organización.
+    separador
+    #acciones.titulo-segundo.color-acento-contenido
+      h2 4.2. Acciones de mejora
+    p.mb-5 Las acciones de mejora son gestionadas por la organización para centralizar las actividades y alinearlas con las normas, estándares y la protección de datos. Las acciones de mejora se pueden asignar a los colaboradores de la organización para realizar trabajos de implementación. Para hablar de una adecuada implementación de acciones de mejora, es necesario contar con la utilización de las diferentes técnicas de análisis de causas que permiten conocer los síntomas y problemas que están dando paso a las vulnerabilidades y riesgos de la organización.
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Leyenda del video
+    p.mt-5 Las técnicas de análisis de causas son procedimientos para identificar los factores de los problemas y cómo poder responder a ellos, se basan en la idea de que la gestión eficaz debe encontrar una manera de prevenir los problemas antes de que ocurran y afecten el trabajo de la organización. Por lo anterior, son un referente en la resolución de problemas para analizar, mejorar y controlar, ya que, al identificar la causa, la organización puede encontrar una solución permanente para reducir o eliminar la posibilidad de que vuelvan a ocurrir en el futuro. Juegan un papel importante en el desarrollo lógico de acciones de mejora para resolver los problemas.
+    p.mb-5 A continuación, se indican algunas de estas técnicas útiles para poder formular acciones de mejora pertinentes:
+    .tarjeta.fondo2.p-4.mb-5
+      SlyderA(tipo="b")
+        .row.justify-content-around
+          .col-xxl-4.col-xl-4.col-lg-5.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
+            h4.mt-4.ms-4.mb-4 Diagrama de Pareto
+            p.ms-4 Esta herramienta se usa para destapar los problemas y las alternativas de soluciones a realizar, ya que arroja como resultado un gráfico de barras en el que el tamaño de las barras refleja la huella de los problemas (de izquierda a derecha: impacto más alto hasta el impacto más bajo). De esta manera, ayuda a comprender hacia dónde dirigir los esfuerzos de mejora.  El propósito es disminuir las barras más grandes plasmadas en el gráfico, ya que su eliminación contribuye más a la mejora general que reducir primero las barras más pequeñas. Una opción para crear un diagrama de Pareto es a través de la herramienta ofimática de Excel, puesto que este programa ya incorpora dentro de sus gráficas el diagrama de Pareto.
+          .col-xxl-7.col-xl-7.col-lg-6.col-md-11.col-sm-11.col-11
+            figure
+              img.mt-4(src='@/assets/curso/tema4/imagen11.png')
+        .row.justify-content-around
+          .col-xxl-4.col-xl-4.col-lg-5.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
+            h4.mt-4.ms-4.mb-4 Diagrama de dispersión
+            p.ms-4 Conjunto de datos numéricos con una variable en cada eje según su relación.  Se usa ampliamente para analizar problemas, ya que muestra cómo las variables se relacionan entre sí; el eje horizontal representa el tiempo, es decir, fechas, y el eje vertical representa el tiempo calculado en días. Por ende, cada punto que se refleja en el diagrama representa una actividad, además de reflejar la correlación entre el problema y la causa, permitiendo así evaluar cuál tiene el mayor impacto y urge resolver de inmediato. Se puede realizar en Excel o PowerPoint.
+          .col-xxl-7.col-xl-7.col-lg-6.col-md-11.col-sm-11.col-11
+            figure
+              img.mt-4(src='@/assets/curso/tema4/imagen12.png')
+        .row.justify-content-around
+          .col-xxl-4.col-xl-4.col-lg-5.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
+            h4.mt-4.ms-4.mb-4 Diagrama de espina de pescado
+            p.ms-4 Diagrama de causa y efecto en forma de espina de pescado, donde el problema se representa como la cabeza del pez y las espinas representan las principales causas identificadas. Puede ser efectivo para la mejora general del proceso y útil para generar lluvia de ideas en las situaciones en que se carece de suficientes datos para respaldar los esfuerzos en la resolución de los problemas. Ofrece visualmente la existencia de un problema, sus principales causas y las divisiones de estas causas en subcausas de apoyo, además, una perspectiva de la raíz del problema, para que la organización, en cabeza del equipo que hace uso de esta herramienta, analice las acciones de mejora para mitigar y controlar la existencia de las causas que germinan el problema.
+          .col-xxl-7.col-xl-7.col-lg-6.col-md-11.col-sm-11.col-11
+            figure
+              img.mt-4(src='@/assets/curso/tema4/imagen13.png')
+        .row.justify-content-around
+          .col-xxl-4.col-xl-4.col-lg-5.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
+            h4.mt-4.ms-4.mb-4 Método de los 5 porqués
+            p.ms-4 Permite llegar a la esencia del problema y luego solucionarlo, además de lograr una mejora continua en cualquier nivel de la organización. Para efectuar este método, ha de reunirse un equipo de trabajo, para que comprendan lo que realmente sucede en el lugar de trabajo y recopilar la información necesaria para descifrar el problema, el alcance y encontrar una solución efectiva al finalizar. La pregunta se repite tantas veces como sea necesario, por parte del líder del equipo, para revelar el problema inicial y tomar las medidas necesarias para implementar la mejor acción de mejora.
+          .col-xxl-7.col-xl-7.col-lg-6.col-md-11.col-sm-11.col-11
+            figure
+              img.mt-4(src='@/assets/curso/tema4/imagen14.png')
+        .row.justify-content-around
+          .col-xxl-4.col-xl-4.col-lg-5.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
+            h4.mt-4.ms-4.mb-4 Árbol del problema
+            p.ms-4 A través del diseño de un árbol que recopila la información de lo que está pasando, por qué está pasando y qué lo provocó. Sustenta en la raíz las causas; en el tronco, presenta el problema principal; y en las ramas u hojas, los efectos como resultados de las causas. Permite establecer el problema, las causas y los efectos, para interpretar, comprender y analizar mejor el problema. Con la información que arroja el árbol del problema, permite hacer varias cosas en la planificación de las acciones de mejora.
+          .col-xxl-7.col-xl-7.col-lg-6.col-md-11.col-sm-11.col-11
+            figure
+              img.mt-4(src='@/assets/curso/tema4/imagen15.png')
+    .row.my-5
+      .col-xxl-3.col-xl-4.col-lg-5.col-md-6.col-sm-9.col-10.ps-md-1.mb-5
+        h4.ps-5.mb-1.fondo17.pb-1 Tipos de acciones de mejora
+    .row.justify-content-center
+      .col-xxl-8.col-xl-8.col-lg-8.col-sm-11.col-md-11.col-12
+        p.p-3.fondo14.mx-4.margenadicional Son recursos que se utilizan para aprovechar la productividad, reducir los errores y orientar el camino de la organización hacia la efectividad de los procesos en las unidades administrativas de la organización. Hay muchos modelos de mejora para desafiar los problemas, alcanzar los ideales propuestos, ofrecer control de calidad y mejorar la eficiencia, además de contribuir en la gestión de los procesos.
+        img(src='@/assets/curso/tema4/imagen16.png')
+
+    AcordionA.otroacordion.my-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+      .row.justify-content-center(titulo="Acciones preventivas")
+        .col-md-11.mb-4.mb-md-0
+          p Se toman medidas preventivas para solucionar la causa de un problema o de un proceso antes de que suceda, es decir, descifrar el problema antes de que aparezca y tomar las medidas necesarias para atacar la causa del problema. En síntesis, se utiliza:
+          ul.lista-ul--color
+            li 
+              i.fas.fa-folder-open
+              | Antes de que suceda el problema, es decir, ante el hallazgo de un riesgo.
+            li 
+              i.fas.fa-folder-open
+              | Para reemplazar el riesgo inminente por la mejora continua en el momento adecuado.
+            li 
+              i.fas.fa-folder-open
+              | Para evaluar la causa y establecer acciones de mejora para prevenir la ocurrencia.
+          p.my-5 En conclusión, las medidas preventivas son recursos útiles activos ante un problema potencial que se puede prever antes de que ocurra.
+      .row.justify-content-center(titulo="Acciones correctivas")
+        .col-md-11.mb-4.mb-md-0
+          p Son actividades que se establecen para corregir el problema presentado, son las acciones efectuadas para neutralizar el problema y controlarlo a través de las medidas necesarias para evitar que vuelva a suceder. En síntesis, se utiliza:
+          ul.lista-ul--color
+            li 
+              i.fas.fa-folder-open
+              | Después de que sucede el problema.
+            li 
+              i.fas.fa-folder-open
+              | Para evaluar la causa y un plan para prevenir la irregularidad.
+            li 
+              i.fas.fa-folder-open
+              | Como actividad propuesta después de la ocurrencia del hecho.
+    .row.justify-content-center
+      .col-xxl-10.col-xl-10.col-lg-11
+        img.nomostrar1.my-2(src='@/assets/curso/tema4/imagenentera.svg')
+      .col-md-8.col-sm-8.col-8
+        img.nomostrar2.my-2(src='@/assets/curso/tema4/imagen17.svg')
+      .row.justify-content-center
+        .col-md-2.col-sm-2.col-2
+          img.nomostrar2.my-2(src='@/assets/curso/tema4/mas.svg')
+      .col-md-8.col-sm-8.col-8
+        img.nomostrar2.my-2(src='@/assets/curso/tema4/imagen18.svg')
+      .row.justify-content-center
+        .col-md-2.col-sm-2.col-2
+          img.nomostrar2.my-2(src='@/assets/curso/tema4/igual.svg')
+      .col-md-8.col-sm-8.col-8
+        img.nomostrar2.my-2(src='@/assets/curso/tema4/imagen19.svg')
+    p.my-5 Ahora bien, las acciones de mejora impulsan los procesos de la organización que suelen estar sujetos a la existencia de problemas y situaciones que ponen en riesgo la rentabilidad de la organización; es por ello que las acciones que se planteen deben conducir a resultados positivos y oportunidades de inhibir el riesgo en los procesos. Las acciones de mejora han de contar con el siguiente esquema:
+    .row.justify-content-center
+      .col-xxl-5.col-xxl-5.col-lg-5.col-md-12.col-sm-12.col-12
+        ul.lista-ul--color
+          li 
+            i.fas.fa-folder-open
+            | <p style="font-weight: 700;">Planificación de las acciones: <span style="font-weight: 500;">basados en el análisis de las técnicas de causas, se procede a formular las acciones que se implementarán para corregir los síntomas y problemas latentes en la organización.</span></p>
+          li 
+            i.fas.fa-folder-open
+            |  <p style="font-weight: 700;">Estado de la acción: <span style="font-weight: 500;">acción implementada, aún por implementar.</span></p>
+          li 
+            i.fas.fa-folder-open
+            | <p style="font-weight: 700;">Fecha de implementación de la acción: <span style="font-weight: 500;">una vez la acción se haya planificado y su estado sea aún por implementar.</span></p>
+          li 
+            i.fas.fa-folder-open
+            | <p style="font-weight: 700;">Notas: <span style="font-weight: 500;">espacio para detallar observaciones sobre la implementación.</span></p>
+
+      .col-xxl-5.col-xxl-5.col-lg-5.col-md-10.col-sm-10.col-12
+        img.mb-4(src='@/assets/curso/tema4/imagen20.png')
+    .row.justify-content-center.my-5
+      .col-xxl-10.col-lg-10.col-xl-10.col-md-12
+        .cajon.color-primario.p-4.mb-4.fondo16
+          p Las acciones de mejora llevan a la solución que se requiere ante la detección de las causas que sitúan el riesgo, por ello, las acciones brindan una adecuada guía de implementación detallada, para que sea efectuada por los colaboradores que fueron asignados para realizar el trabajo de puesta en marcha.         
 </template>
 
 <script>

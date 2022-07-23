@@ -80,13 +80,13 @@ export default {
         subMenu: [
           {
             icono: 'far fa-file-alt',
-            numero: '1.1',
+            numero: '4.1',
             titulo: 'Indicadores de gestión',
             hash: 'indicadores',
           },
           {
             icono: 'far fa-file-alt',
-            numero: '1.2',
+            numero: '4.2',
             titulo: 'Acciones de mejora',
             hash: 'acciones',
           },
@@ -135,132 +135,117 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Luna, A. (2015). Proceso administrativo. Grupo Editorial Patria.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39415?page=59',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Reinoso, J. y Uribe, M. (2009). Los indicadores de gestión y su relación con la cultura organizacional. Sello Editorial Universidad del Tolima.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/71131?page=17',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Taylor, A. y Feenstra, R. (2015). Comercio internacional. Editorial Reverté.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/46774?page=43',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Torres, Z. (2015). Planeación y control. Grupo Editorial Patria.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39408?page=211',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Balanza comercial',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'es la diferencia entre el valor total de sus exportaciones y el valor total de sus importaciones.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Cultura',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'estudios de las organizaciones y de gestión que describen la psicología, las actitudes, experiencias, creencias y valores (personales y culturales) de una organización.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Exportación',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'la venta de un bien o servicio a otro país, es decir, es un producto vendido por un país a otro.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Expectativas',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'esperanza o posibilidad de conseguir una cosa. No actuar ni tomar ninguna determinación hasta ver lo que sucede.',
     },
     {
-      termino: 'Moda',
+      termino: 'FODA',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'es una herramienta de estudio de la situación de una empresa analizando sus características internas y su situación externa en una matriz cuadrada.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Importación',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'la compra de un bien o servicio procedente de otro país, es decir, es un producto comprado a otro país.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Indicadores',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'datos o información que sirve para conocer o valorar las características y la intensidad de un hecho o para determinar su evolución futura.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Manual de funciones',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'instrumento o herramienta de trabajo que contiene el conjunto de funciones, responsabilidades, competencias laborales y normas que desarrolla cada trabajador.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Métodos de evaluación de desempeño',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'técnica que estudia los procesos de una empresa y cómo se pueden realizar de manera óptima por parte del empleado.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Producto interno bruto',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'es el valor de los bienes y servicios finales producidos durante un año.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Plan',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'modelo sistemático que detalla qué tareas se deben llevar a cabo para alcanzar un objetivo, para lo cual se establecen metas y tiempos de ejecución.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Procedimiento',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'es un conjunto de acciones u operaciones que tienen que realizarse de la misma forma para obtener siempre el mismo resultado bajo las mismas circunstancias.',
+    },
+    {
+      termino: 'Reclutamiento',
+      significado:
+        'proceso de atraer individuos oportunamente, en suficiente número y con los debidos atributos, y estimularlos para que soliciten empleo en la organización.',
+    },
+    {
+      termino: 'Toma de decisiones',
+      significado:
+        'cubre cómo se involucran los miembros del grupo en la elección de alternativas de acción que afectan globalmente el trabajo y se concede libertad para acometer las tareas y solucionar los problemas cotidianos; incluye la pertinencia de las decisiones y la delegación entre niveles jerárquicos.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Proceso administrativo',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Luna, A. (2015). Proceso administrativo. Grupo Editorial Patria. ',
+      tipo: 'Libro',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39415?as_all=proceso__administrativo&as_all_op=unaccent__icontains&prev=as ',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Monitoreo y evaluación ',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Rodríguez, E. (2016). Planificación estratégica. Fundamentos y herramientas de actuación. Editorial Brujas.',
+      tipo: 'Libro',
+      link:
+        'https://www-digitaliapublishing-com.bdigital.sena.edu.co/visor/41904 ',
     },
   ],
   creditos: {
@@ -273,10 +258,30 @@ export default {
     ],
     contenidoInstruccional: [
       {
+        nombre: 'Fabiola Sierra Sarmiento',
+        cargo: 'Experta temática',
+        centro: 'CIES Regional Norte de Santander',
+      },
+      {
+        nombre: 'Leydy Jhuliana Jaramillo Mejía ',
+        cargo: 'Diseñadora Instruccional ',
+        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Evaluadora Instruccional',
+        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+      },
+      {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Corrector de Estilo',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
       },
     ],
     desarrolloProducto: [
@@ -292,41 +297,30 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Jorge Enrique Haylock Calderín',
+        cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

@@ -10,7 +10,7 @@
     p.mb-5 Enfatizan las operaciones actuales de varias partes de la organización. El mediano plazo generalmente se define como un periodo de tiempo que se extiende aproximadamente un año o más en el futuro. Los gerentes utilizan los planes tácticos para delinear lo que deben hacer las diversas partes de la organización para que la organización tenga éxito en algún momento dentro de un año o más. Los planes tácticos generalmente se desarrollan en las áreas de:
     
     .row.justify-content-center
-      .col-xxl-5.col-xxl-5col-lg-5.col-md-6.col-sm-8.col-10
+      .col-xxl-5.col-xxl-5.col-lg-5.col-md-6.col-sm-8.col-10
         img.mb-4(src='@/assets/curso/tema1/imagen16.png')  
       .col-xxl-3.col-xxl-3.col-lg-3.col-md-3.col-sm-4.col-12
         ul.lista-ul--color
@@ -19,7 +19,7 @@
             | Producción
           li 
             i.fas.fa-folder-open
-            | Marketing
+            | <i>Marketing</i>
           li 
             i.fas.fa-folder-open
             | Talento humano
