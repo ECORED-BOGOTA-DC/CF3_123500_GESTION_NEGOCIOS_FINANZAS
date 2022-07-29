@@ -50,10 +50,10 @@
         p Tenga en cuenta, con el diseño de las estrategias, la disponibilidad de dinero para la ejecución de las mismas, ya que habrá unas que no lo requieren como otras que, para su práctica, necesitarán de él. Muchas estrategias involucrarán costos administrativos: llamadas telefónicas, impresión y fotocopias, compras de equipos o materiales, publicidad, entre otros. Quien esté al frente de las finanzas tendrá en cuenta los costos posibles en los que se podría incurrir si se realiza una estrategia.
       .tarjeta.otra2.fondo2.p-5(titulo="Tiempo o duración")
         h4 Tiempo o duración
-        p Las estrategias formuladas en el plan operativo deben contar con un periodo de tiempo para su implementación y el logro de los resultados. Esta duración debe ser inferior a un año; por lo general, las estrategias se miden en lapsos de días, semanas o varios meses.
+        p Las estrategias formuladas en el plan operativo deben contar con un período de tiempo para su implementación y el logro de los resultados. Esta duración debe ser inferior a un año; por lo general, las estrategias se miden en lapsos de días, semanas o varios meses.
         p Es indispensable que formule el tiempo para cada estrategia, lo que le permitirá ordenar las tareas que deben realizarse y priorizar aquellas que demandan mayor atención por la urgencia de su práctica.
       .tarjeta.otra2.fondo2.p-5(titulo="Medidas preventivas y correctivas")
-        h4 Dan a conocer los procedimientos
+        h4 Medidas preventivas y correctivas
         p Se utilizan para establecer acciones que requieran utilizarse en caso de que las estrategias no estén otorgando los resultados esperados, es decir, una forma de asegurar el camino hacia lo que desea la empresa. Estas pueden efectuarse según los datos que suministren el seguimiento y el control.
 
     .row.justify-content-center.p-5
@@ -63,7 +63,8 @@
         p Un plan operativo no debe formularse sin hacer referencia a un plan estratégico, básicamente, es un plan para la implementación de las estrategias contenidas en el plan estratégico, facilitando la coordinación de los recursos de la organización para que se puedan alcanzar las metas y objetivos del plan.
       .col-xxl-3.col-xl-3.col-lg-4.col-md-6.col-sm-7.col-8
         .titulo-sexto.color-acento-contenido
-          h5 Figura 4. 
+          h5 Figura 5. 
+          span Objetivos a corto plazo 
         img(src='@/assets/curso/tema3/figura1.svg')
     p.mt-5 La asignación y gestión de recursos es fundamental en la planeación operativa porque indicará el presupuesto que se necesita para poner en marcha el plan, es decir, se identificará cuánto dinero requiere. A veces, se deben hacer ajustes para evitar el fracaso, y otras veces, deberá ajustar su plan para los próximos pasos, porque finalmente ha alcanzado sus límites estratégicos.
     p.mb-5 Quien lleve a cabo la formulación de un plan operativo tendrá en cuenta los siguientes elementos de la organización:
@@ -103,7 +104,7 @@
         img.correrder(src='@/assets/curso/tema3/grupo1.svg')
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.m-0.ps-0
         img.correrizq(src='@/assets/curso/tema3/grupo2.svg')
-    p.my-5 En el documento del plan operativo, se describen todas las actividades y objetivos para lograr los objetivos y metas establecidos en la planificación estratégica; cubre un periodo de un año. Un plan operativo también brinda detalles sobre los riesgos asociados y la sostenibilidad de los logros.
+    p.my-5 En el documento del plan operativo, se describen todas las actividades y objetivos para lograr los objetivos y metas establecidos en la planificación estratégica; cubre un período de un año. Un plan operativo también brinda detalles sobre los riesgos asociados y la sostenibilidad de los logros.
     .row.justify-content-center
       .col-xxl-3.col-xl-4.col-lg-5.col-md-5.col-sm-6.col-8.mb-4
         img(src='@/assets/curso/tema3/imagen4.png')
@@ -209,7 +210,7 @@
           td.fondoEncabezado
             h4 Planeación
           td.fondoEncabezado
-            h4 Periodo
+            h4 Período
           td.fondoEncabezado 
             h4 Describe
           td.fondoEncabezado 

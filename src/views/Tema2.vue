@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span.text-dark 2
       h1 Planes tácticos
-    p.mb-5 Enfatizan las operaciones actuales de varias partes de la organización. El mediano plazo generalmente se define como un periodo de tiempo que se extiende aproximadamente un año o más en el futuro. Los gerentes utilizan los planes tácticos para delinear lo que deben hacer las diversas partes de la organización para que la organización tenga éxito en algún momento dentro de un año o más. Los planes tácticos generalmente se desarrollan en las áreas de:
+    p.mb-5 Enfatizan las operaciones actuales de varias partes de la organización. El mediano plazo generalmente se define como un período de tiempo que se extiende aproximadamente un año o más en el futuro. Los gerentes utilizan los planes tácticos para delinear lo que deben hacer las diversas partes de la organización para que la organización tenga éxito en algún momento dentro de un año o más. Los planes tácticos generalmente se desarrollan en las áreas de:
     
     .row.justify-content-center
       .col-xxl-5.col-xxl-5.col-lg-5.col-md-6.col-sm-8.col-10
@@ -49,7 +49,7 @@
       table
         tr
           th
-            h4 Objetivos específicos con duración.
+            h4 Objetivos específicos con duración
           td 
             p El plan táctico dividirá esta amplia ambición en objetivos más pequeños y factibles. Los objetivos deben ser muy específicos y tener tiempos fijos para estimular la acción.
         tr
@@ -75,7 +75,12 @@
                 | Papelería.
               li 
                 i.lista-ul__vineta
-                | Funcionamiento de las operaciones diarias de la empresa. 
+                | Funcionamiento de las operaciones diarias de la empresa.
+        tr
+          th
+            h4 Recursos
+          td 
+            p Establecer todos los recursos que puede reunir para lograr los objetivos de la organización; estos pueden ser recursos humanos, físicos, entre otros…
         tr
           th 
             h4 <i>Marketing</i>
@@ -94,6 +99,7 @@
       .col-xxl-3.col-xl-3.col-lg-4.col-md-6.col-sm-7.col-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 3. 
+          span Objetivos a mediano plazo
         img(src='@/assets/curso/tema2/figura1.svg')
     p.my-5.text-center Quien lleve a cabo la formulación de un plan táctico tendrá en cuenta los siguientes elementos de la organización:
     .row.justify-content-center
@@ -118,13 +124,13 @@
       .row.justify-content-center.my-5
         .col-xxl-10.col-xl-10.col-lg-10.col-md-12.col-sm-12.col-12.p-5.fondo14
           p.text-bold Ejemplo:
-          p Los directivos de X organización formularon un plan estratégico en el que desean que el área comercial aumente las ventas en el último mes de este segundo trimestre del año en un 30 %.
+          p Los directivos de X organización formularon un plan estratégico en el que desean que el área comercial aumente las ventas en el último mes de este segundo trimestre del año en un 30%.
           p.text-bold Plan táctico:
           p El líder de área evaluará el desempeño de los colaboradores diariamente para reforzar los métodos de ventas en efectivo. Uno de los trabajadores monitoreará el progreso de las metas e informará los resultados semanalmente al líder del área. Otro de los trabajadores capacitará sobre nuevas técnicas de ventas al equipo durante el tiempo muerto.
           img.situarimagen(src='@/assets/curso/tema2/imagen2.svg')
     .row.my-5
       .col-xxl-4.col-xl-4.col-lg-5.col-md-7.col-sm-8.col-9
-        h4.ps-5.mb-0.fondo6.pb-0 Puntos claves de un plan táctico:
+        h4.ps-5.mb-0.fondo6.pb-0 Puntos claves de un plan táctico
     p.mb-5 Los planes tácticos están hechos para desempeñar lo descrito en el plan estratégico, a través de acciones y estrategias específicas, con instrucciones claras y definición de los pasos necesarios para asegurar que todos los involucrados hablen el mismo idioma en cuanto a las operaciones que deben encauzar para desarrollar la visión estratégica, así:
     .row.justify-content-center.mt-5
       .col-xxl-3.col-xl-3.col-lg-4.col-md-5.col-sm-6.col-7.mb-4
@@ -178,10 +184,10 @@
           td •	Describe los pasos y acciones para alcanzar las metas del plan estratégico.
         tr
           td •	Estrategias.
-          td •	Tácticas
+          td •	Tácticas.
         tr
           td •	Apoya el logro de la misión de la organización.
-          td •	Apoya mejores prácticas con planes específicos 
+          td •	Apoya mejores prácticas con planes específicos.
         tr
           td •	Duradera.
           td •	Concreta.
@@ -197,7 +203,8 @@
     .row.justify-content-center.my-5
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12
         .titulo-sexto.color-acento-contenido.mb-5
-          h5 Figura 4.
+          h5 Figura 4. 
+          span Propósitos de las tácticas
         img(src='@/assets/curso/tema2/figura2.svg')              
     p.my-5 Por último, los planes tácticos describen la ejecución de acciones específicas que la organización planea usar para lograr lo dispuesto en el plan estratégico, involucran el uso de recursos, el cumplimiento de la línea de tiempo y los criterios en cuanto al paso a paso, cumplimiento de políticas, lineamientos y normativa, fechas de entrega, cantidades y demás. Todo esto conlleva el desarrollo de los objetivos, los cuales estarán plasmados en un lenguaje claro, que defina los resultados que se desean alcanzar. Este documento forja el diseño de estrategias y alcances del plan táctico, que contiene lo ineludible para conseguir los objetivos de la organización.
     .tabla-c
@@ -206,7 +213,7 @@
           td.fondoEncabezado
             h4 Planeación
           td.fondoEncabezado
-            h4 Periodo
+            h4 Período
           td.fondoEncabezado 
             h4 Describe
           td.fondoEncabezado 

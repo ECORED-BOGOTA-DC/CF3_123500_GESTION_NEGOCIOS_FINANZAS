@@ -8,7 +8,7 @@
     //- Una vez el componente "Muestras" no se necesite 
     //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
     //- esto evitará que se compile en la carpeta final de distribución
-    Muestras
+    //- Muestras
     .titulo-principal.color-acento-contenido(data-aos="fade")
       .titulo-principal__numero
         span.text-dark 1
@@ -200,7 +200,7 @@
         p Las empresas implementan políticas en circunstancias de viajes y trabajos fuera de la organización, con el fin de enviar presupuestos de viaje y obtener la aprobación de tiquetes aéreos, hospedaje, transporte y demás.  El área de talento humano le facilita al colaborador que viaja todo lo necesario a razón de economía, diluyendo cualquier posibilidad de que el colaborador pueda sacar provecho de la situación de viaje.
       .tarjeta.otra2.fondo2.p-4(titulo="Mejorar las operaciones")
         h4 Mejorar las operaciones
-        p Algunas políticas están destinadas a ayudar a los colaboradores a comprender cómo comenzar y finalizar su jornada laboral, enviar órdenes de trabajo, usar el software y realizar otras tareas que ayudan a que la empresa funcione sin problemas.
+        p Algunas políticas están destinadas a ayudar a los colaboradores a comprender cómo comenzar y finalizar su jornada laboral, enviar órdenes de trabajo, usar el <i>software</i> y realizar otras tareas que ayudan a que la empresa funcione sin problemas.
       .tarjeta.otra2.fondo2.p-4(titulo="Expresan las operaciones legales")
         h4 Expresan las operaciones legales
         p Es valioso dar a conocer a los colaboradores las normas y obligaciones legales. Esto puede incluir pautas para prácticas de seguridad, políticas de contratación, acoso, seguridad de datos y discriminación. Esta es una de las razones por las que las empresas hacen que sus colaboradores firmen un documento en el que indican que leyeron la guía de políticas, entendieron el contenido y aceptaron los términos. Por lo anterior, un empleado no podrá decir que desconocía estas políticas.
@@ -255,7 +255,7 @@
         .row.px-5(titulo="5")
           .col-md-6.mb-4.mb-md-0
             p.text-bold 5. Políticas de seguridad de información
-            p Dado que la mayoría de empresas trabajan ahora bajo la compañía de un software y este se usa en casi todos los trabajos, las empresas necesitan políticas que rijan el uso de la información de los equipos que disponen de este software para actividades personales. Por motivos de seguridad, las empresas pueden pedir a los empleados que firmen un documento que permita a una empresa controlar la actividad de Internet y los correos electrónicos de sus trabajadores.
+            p Dado que la mayoría de empresas trabajan ahora bajo la compañía de un <i>software</i> y este se usa en casi todos los trabajos, las empresas necesitan políticas que rijan el uso de la información de los equipos que disponen de este <i>software</i> para actividades personales. Por motivos de seguridad, las empresas pueden pedir a los empleados que firmen un documento que permita a una empresa controlar la actividad de Internet y los correos electrónicos de sus trabajadores.
           .col-md-6
             figure
               img(src='@/assets/curso/tema1/tiempo5.png')
@@ -303,32 +303,32 @@
         img.imgsize(src='@/assets/curso/tema1/slider4-1.svg')
         .tarjeta.otra3.fondo4
           .text-dark.p-4
-            p Habilidades que necesita la organización: Debe determinar qué tipo de contrataciones necesita y qué requisitos deben cumplir, describir las habilidades que se requieren para el desempeño del cargo, así como los conocimientos técnicos o específicos del área de trabajo. Se sugiere que, antes de contratar una nueva persona, se considere el talento humano actual, es decir, los ascensos, partiendo de la experiencia y la antigüedad que ya posee.
+            p Habilidades que necesita la organización: debe determinar qué tipo de contrataciones necesita y qué requisitos deben cumplir, describir las habilidades que se requieren para el desempeño del cargo, así como los conocimientos técnicos o específicos del área de trabajo. Se sugiere que, antes de contratar una nueva persona, se considere el talento humano actual, es decir, los ascensos, partiendo de la experiencia y la antigüedad que ya posee.
       .tarjeta-avatar
         img.imgsize(src='@/assets/curso/tema1/slider4-2.svg')
         .tarjeta.otra3.fondo4
           .text-dark.p-4
-            p Reclutar al talento humano apropiado: Utilice las herramientas necesarias para dar a conocer las vacantes que ofrece la empresa y los requisitos que se exigen; para ello, cree anuncios y publíquelos en los principales sitios de trabajo. Se recomienda realizar evaluaciones de personalidad, referencias y pruebas que requieran que los candidatos se desempeñen en situaciones de la vida real. Brinde la oportunidad de trabajo a las mejores opciones.
+            p Reclutar al talento humano apropiado: utilice las herramientas necesarias para dar a conocer las vacantes que ofrece la empresa y los requisitos que se exigen; para ello, cree anuncios y publíquelos en los principales sitios de trabajo. Se recomienda realizar evaluaciones de personalidad, referencias y pruebas que requieran que los candidatos se desempeñen en situaciones de la vida real. Brinde la oportunidad de trabajo a las mejores opciones.
       .tarjeta-avatar
         img.imgsize(src='@/assets/curso/tema1/slider4-3.svg')
         .tarjeta.otra3.fondo4
           .text-dark.p-4
-            p Incorporación y organización del trabajo: Una vez el colaborador es parte de la empresa, el área de talento humano orienta y capacita en los procesos de la labor para que esté listo. Entregue tareas que pueda desarrollar, programe sesiones de capacitación y asigne empleados actuales para ayudar a los nuevos trabajadores a instalarse
+            p Incorporación y organización del trabajo: una vez el colaborador es parte de la empresa, el área de talento humano orienta y capacita en los procesos de la labor para que esté listo. Entregue tareas que pueda desarrollar, programe sesiones de capacitación y asigne empleados actuales para ayudar a los nuevos trabajadores a instalarse
       .tarjeta-avatar
         img.imgsize(src='@/assets/curso/tema1/slider4-4.svg')
         .tarjeta.otra3.fondo4
           .text-dark.p-4
-            p Actualización de conocimientos: Es más importante mantener capacitado y desarrollando habilidades al talento humano contratado, ya que será mucho más fácil ascender a una persona que conoce ya el negocio que los costos que genera reclutar nuevo personal y capacitarlo para el cargo disponible.
+            p Actualización de conocimientos: es más importante mantener capacitado y desarrollando habilidades al talento humano contratado, ya que será mucho más fácil ascender a una persona que conoce ya el negocio que los costos que genera reclutar nuevo personal y capacitarlo para el cargo disponible.
       .tarjeta-avatar
         img.imgsize(src='@/assets/curso/tema1/slider4-5.svg')
         .tarjeta.otra3.fondo4
           .text-dark.p-4
-            p Efectúe evaluaciones de desempeño: Verifique el desempeño de los empleados con regularidad, esto le permite ver si los trabajadores pueden administrar responsabilidades adicionales, además de verificar el cumplimiento de las actividades encomendadas para el logro de los objetivos de la empresa.
+            p Efectúe evaluaciones de desempeño: verifique el desempeño de los empleados con regularidad, esto le permite ver si los trabajadores pueden administrar responsabilidades adicionales, además de verificar el cumplimiento de las actividades encomendadas para el logro de los objetivos de la empresa.
       .tarjeta-avatar
         img.imgsize(src='@/assets/curso/tema1/slider4-6.svg')
         .tarjeta.otra3.fondo4
           .text-dark.p-4
-            p Conserve a su mejor talento: La mayoría de las empresas cuentan con los medios para retener a los colaboradores potenciales, haciendo que estos trabajen motivados en la labor encomendada, ofreciéndoles beneficios y compensaciones por las metas alcanzadas, motivando y resaltando los logros y actividades en las que se desempeñó eficientemente, asegurando la satisfacción laboral y mejorando la cultura de la empresa. 
+            p Conserve a su mejor talento: la mayoría de las empresas cuentan con los medios para retener a los colaboradores potenciales, haciendo que estos trabajen motivados en la labor encomendada, ofreciéndoles beneficios y compensaciones por las metas alcanzadas, motivando y resaltando los logros y actividades en las que se desempeñó eficientemente, asegurando la satisfacción laboral y mejorando la cultura de la empresa. 
     separador
     .row.mb-5
       .col-xxl-5.col-xl-5.col-lg-6.col-md-9.col-sm-11.col-12
@@ -359,20 +359,19 @@
         ul.lista-ul--color
           li 
             i.lista-ul__vineta
-            | <p style="font-weight:700; color: #12263F;">Obtener: <span style="color: #12263F; font-weight:500;">Reclutamiento e incorporación.</span></p>
+            | <p style="font-weight:700; color: #12263F;">Obtener: <span style="color: #12263F; font-weight:500;">reclutamiento e incorporación.</span></p>
           li 
             i.lista-ul__vineta
-            | <p style="font-weight:700; color: #12263F;">Evaluar: <span style="color: #12263F; font-weight:500;">Planificar periodos para aplicar evaluación, analizar el desempeño del talento.</span></p>
+            | <p style="font-weight:700; color: #12263F;">Evaluar: <span style="color: #12263F; font-weight:500;">planificar períodos para aplicar evaluación, analizar el desempeño del talento.</span></p>
           li 
             i.lista-ul__vineta
-            | <p style="font-weight:700; color: #12263F;">Efectuar: <span style="color: #12263F; font-weight:500;">Seguimiento y ejecución de cultura y políticas organizacionales, planificación de la fuerza laboral, compromiso y retención.</span></p>
+            | <p style="font-weight:700; color: #12263F;">Efectuar: <span style="color: #12263F; font-weight:500;">seguimiento y ejecución de cultura y políticas organizacionales, planificación de la fuerza laboral, compromiso y retención.</span></p>
           li 
             i.lista-ul__vineta
             | <p style="font-weight:700; color: #12263F;">Implementar: <span style="color: #12263F; font-weight:500;">aprendizaje y desarrollo, gestión del conocimiento, distribución de objetivos.</span></p>
                
       .col-xxl-5.col-xxl-5.col-lg-6.col-md-11.col-sm-12.col-12
         img(src='@/assets/curso/tema1/imagen7.png')
-    p.my-5 El área comercial, en la mayoría de las organizaciones, es un punto de encuentro que funciona como canal formal para las comunicaciones externas y está autorizada para acordar asuntos comerciales.
 
     separador
     .row.mb-5
@@ -416,26 +415,26 @@
             ul.lista-ul
               li 
                 i.lista-ul__vineta
-                | Se desempeñarán bien y alcanzarán un alto rendimiento. 
+                | Ahorro de dinero en salarios.
               li
                 i.lista-ul__vineta
-                | Crecimiento de la empresa más rápido.
+                | Tiene el potencial de convertirse en un profesional hábil y leal.
               li 
                 i.lista-ul__vineta
-                | Preparado para los desafíos y riesgos.
+                | Necesario si tiene una necesidad urgente de talento.
         tr
           th Explotar la colaboración, tenacidad y respeto mutuo en el equipo de trabajo.
           td 
             ul.lista-ul
               li 
                 i.lista-ul__vineta
-                | Se desempeñarán bien y alcanzarán un alto rendimiento. 
+                | Aprovechar nuevas contrataciones y talento existente.
               li
                 i.lista-ul__vineta
-                | Crecimiento de la empresa más rápido.
+                | Los mejores colaboradores pueden enseñar a los nuevos.
               li 
                 i.lista-ul__vineta
-                | Preparado para los desafíos y riesgos.
+                | Ayudará al talento humano a crecer más rápido y mantenerlos motivados.
 
     separador
     .row.mb-5
@@ -563,6 +562,7 @@
             | Tener presentes las leyes, reglamentos y normativa.
       .col-xxl-5.col-xxl-5.col-lg-6.col-md-11.col-sm-12.col-12
         img(src='@/assets/curso/tema1/imagen14.png')
+    p.mt-5 El área comercial, en la mayoría de las organizaciones, es un punto de encuentro que funciona como canal formal para las comunicaciones externas y está autorizada para acordar asuntos comerciales
     .row.justify-content-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12
         .bloque-texto-c.fondo9.p-4.my-5
@@ -661,12 +661,14 @@
             i.fas.fa-folder-open
             | Protección y promoción a través de tratados y acuerdos de inversión.
       .col-xxl-6.col-xxl-6.col-lg-6.col-md-11.col-sm-12.col-12
-        img(src='@/assets/curso/tema1/imagen16.png')    
+        img(src='@/assets/curso/tema1/imagen16.png')
+    h4.mt-5 Los acuerdos comerciales
+    p.mb-5 Los acuerdos comerciales pueden crear oportunidades para ayudar a hacer crecer la economía. Establecen reglas para las empresas que participan de estos acuerdos y que buscan hacer negocios en los mercados de todo el mundo, mediante la reducción de las barreras a las exportaciones, la protección de los intereses y la mejora del estado de derecho en los países socios del acuerdo comercial. Hay muchos tipos de acuerdos comerciales, incluyendo: 
     .tarjeta.fondo2.p-4.mb-5
       SlyderA(tipo="b")
         .row.justify-content-around
           .col-xxl-4.col-xl-4.col-lg-5.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
-            h4.mt-4.ms-4.mb-4 1. Acuerdos de la Organización Mundial del Comercio (OMC)
+            h4.mt-4.ms-4.mb-4 1. Acuerdos de la Organización Mundial del Comercio (OMC):
             p.ms-4 Establecen normas que rigen el comercio entre los muchos miembros de la OMC. Según lo expresado por Taylor y Feenstra (2015, p. 425), la OMC es un acuerdo multilateral entre muchos países, con el objetivo de recortar los aranceles entre todos los países miembros. Estos acuerdos cubren bienes, servicios, propiedad intelectual, estándares, inversión y otros temas que impactan el flujo de comercio, además de crear un marco legal de comercio internacional para muchísimas economías de todo el mundo.
           .col-xxl-7.col-xl-7.col-lg-6.col-md-11.col-sm-11.col-11
             figure
@@ -697,12 +699,10 @@
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 import BannerInterno from '../components/BannerInterno.vue'
 export default {
   name: 'Tema1',
   components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
     BannerInterno,
   },
   data: () => ({

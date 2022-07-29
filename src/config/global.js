@@ -251,9 +251,9 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Maria Camila Garcia Santamaria',
+        nombre: 'María Camila García Santamaría',
         cargo: 'Líder del equipo',
-        centro: 'Dirección General',
+        centro: 'Dirección general',
       },
     ],
     contenidoInstruccional: [
@@ -264,13 +264,13 @@ export default {
       },
       {
         nombre: 'Leydy Jhuliana Jaramillo Mejía ',
-        cargo: 'Diseñadora Instruccional ',
-        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        cargo: 'Diseñadora instruccional ',
+        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
       },
       {
         nombre: 'Silvia Milena Sequeda Cárdenas',
-        cargo: 'Evaluadora Instruccional',
-        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
       },
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
@@ -280,8 +280,8 @@ export default {
       },
       {
         nombre: 'Darío González',
-        cargo: 'Corrector de Estilo',
-        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        cargo: 'Corrector de estilo',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -292,7 +292,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
+        nombre: 'Leyson Fabián Castaño Pérez',
         cargo: 'Soporte organizacional',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
@@ -315,7 +315,7 @@ export default {
       },
       {
         nombre: 'Jorge Enrique Haylock Calderín',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
