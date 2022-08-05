@@ -12,7 +12,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade")
       .titulo-principal__numero
         span.text-dark 1
-      h1 Proceso administrativo
+      h1 Proceso Administrativo
     p.mb-5 Son las funciones administrativas que, bien desarrolladas, aseguran el eficiente provecho de los recursos disponibles en la organización, así como la satisfacción de las áreas involucradas, por lo que los procesos administrativos tienen como finalidad potenciar la eficiencia, consistencia y contabilidad de sus recursos humanos, técnicos y materiales.
     .bloque-texto-g.fondo1.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -155,7 +155,7 @@
         img(src='@/assets/curso/tema1/noentrar.jpg')
     p.mt-5 Las políticas comunican las responsabilidades individuales y de equipo, permitiendo así que todos trabajen juntos hacia los objetivos de la empresa. Los empleados entienden cómo realizar sus tareas de forma rápida y sencilla; de esta forma, los gerentes aplican el control en lugar de tener que fiscalizar las actividades de sus empleados.
     p.mb-5.text-center Estos son algunos de los puntos de la organización en los que se suele aplicar políticas:
-    SlyderF.my-5(data-aos="fade-up")(columnas="col-lg-4 col-xl-4")
+    SlyderF(data-aos="fade-up").my-5(columnas="col-lg-4 col-xl-4")
       .tarjeta-avatar
         img.imgsize(src='@/assets/curso/tema1/slider3-1.svg')
         .tarjeta.otra1.fondo4
@@ -298,7 +298,7 @@
       .col-xxl-4.col-xl-4.col-lg-5.col-md-7.col-sm-8.col-9
         h4.ps-5.mb-0.fondo6.pb-0 Proceso de gestión del talento
     p.mb-5 Para todas las empresas, es fundamental que se gestione el talento humano desde cada una de las áreas, evaluando el desempeño y analizando las situaciones que ameritan riesgo o alerta en el contexto laboral.  Los colaboradores se sienten parte de la organización cuando esta resalta las destrezas y habilidades, optimiza los procesos y tiene en cuenta la experiencia del trabajador para futuros puestos vacantes. Por lo anterior, se relacionan a continuación los pasos para desarrollar el proceso de gestión de talento:
-    SlyderF.my-5(data-aos="fade-up")(columnas="col-xl-4 col-lg-6")
+    SlyderF(data-aos="fade-up").my-5(columnas="col-xl-4 col-lg-6")
       .tarjeta-avatar
         img.imgsize(src='@/assets/curso/tema1/slider4-1.svg')
         .tarjeta.otra3.fondo4

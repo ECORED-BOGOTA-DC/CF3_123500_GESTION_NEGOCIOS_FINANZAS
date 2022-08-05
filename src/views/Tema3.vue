@@ -223,6 +223,7 @@
           td.bordetabla.alineartop Funcionamiento diario de la empresa, traza una hoja de ruta para lograr los objetivos tácticos dentro de un tiempo real.
           td.bordetabla.alineartop Dirigir a las personas a realizar las tareas, año a año, mes a mes y día a día, requeridas en el funcionamiento de la organización.
           td.bordetabla.alineartop Tarea, actividad o función.
+    
 </template>
 
 <script>
