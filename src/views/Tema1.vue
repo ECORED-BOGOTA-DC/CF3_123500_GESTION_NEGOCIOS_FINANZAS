@@ -2,17 +2,10 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-
-    //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
-    //- se encuentra en src/components/Muestras.vue
-    //- Una vez el componente "Muestras" no se necesite 
-    //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
-    //- esto evitará que se compile en la carpeta final de distribución
-    //- Muestras
     .titulo-principal.color-acento-contenido(data-aos="fade")
       .titulo-principal__numero
         span.text-dark 1
-      h1 Proceso Administrativo
+      h1 Proceso administrativo
     p.mb-5 Son las funciones administrativas que, bien desarrolladas, aseguran el eficiente provecho de los recursos disponibles en la organización, así como la satisfacción de las áreas involucradas, por lo que los procesos administrativos tienen como finalidad potenciar la eficiencia, consistencia y contabilidad de sus recursos humanos, técnicos y materiales.
     .bloque-texto-g.fondo1.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
