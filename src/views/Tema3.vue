@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span.text-dark 3
       h1 Planes operativos    
-    p.mb-5 Es el proceso de vincular metas y objetivos estratégicos con metas y objetivos tácticos, explica cómo o qué parte de un plan estratégico se pondrá en marcha durante un período operativo determinado. El plan operativo sí presenta información muy detallada, específicamente para dirigir a las personas a realizar las tareas año a año, mes a mes y día a día, requerida en el funcionamiento de la organización. Los planes operativos generalmente se desarrollan a través de operaciones en:
+    p.mb-5(data-aos="fade-up-right") Es el proceso de vincular metas y objetivos estratégicos con metas y objetivos tácticos, explica cómo o qué parte de un plan estratégico se pondrá en marcha durante un período operativo determinado. El plan operativo sí presenta información muy detallada, específicamente para dirigir a las personas a realizar las tareas año a año, mes a mes y día a día, requerida en el funcionamiento de la organización. Los planes operativos generalmente se desarrollan a través de operaciones en:
     SlyderF.colorchevron.my-5(data-aos="fade-up")(columnas="col-lg-4 col-xl-4 col-md-6 col-sm-12 col-12")
       .tarjeta-avatar
         img.imgsize2(src='@/assets/curso/tema3/slider1.svg')
@@ -39,9 +39,9 @@
           .text-dark.p-4
             p.text-bold.text-center Actividades
             p.text-center Descritas en el manual de procedimientos, procesos, procedimientos, operaciones, roles y responsabilidades.
-    p.mt-5 El plan operativo describe el funcionamiento diario de la empresa, traza una hoja de ruta para lograr los objetivos tácticos dentro de un tiempo real. Este plan es altamente específico, con un énfasis en los objetivos a corto plazo. La creación del plan operativo es responsabilidad de los gerentes y supervisores de bajo nivel.
-    p.mb-5 Para elaborar un plan operativo, tenga en cuenta los siguientes elementos:
-    TabsA.color-acento-contenido
+    p.mt-5(data-aos="fade-up-right") El plan operativo describe el funcionamiento diario de la empresa, traza una hoja de ruta para lograr los objetivos tácticos dentro de un tiempo real. Este plan es altamente específico, con un énfasis en los objetivos a corto plazo. La creación del plan operativo es responsabilidad de los gerentes y supervisores de bajo nivel.
+    p.mb-5(data-aos="fade-up-right") Para elaborar un plan operativo, tenga en cuenta los siguientes elementos:
+    TabsA.color-acento-contenido(data-aos="fade-up")
       .tarjeta.otra2.fondo2.p-5(titulo="Responsables de las estrategias")
         h4 Responsables de las estrategias
         p Una vez formuladas las estrategias que permiten el logro de los objetivos, se procede a asignar responsable, es decir, para cada estrategia, alguien debe responder por su implementación. Como se habla de un plan operativo en el que el foco se apalanca en las tareas y funciones encomendadas al colaborador, el responsable se fija de acuerdo con su rol de trabajo.
@@ -56,7 +56,7 @@
         h4 Medidas preventivas y correctivas
         p Se utilizan para establecer acciones que requieran utilizarse en caso de que las estrategias no estén otorgando los resultados esperados, es decir, una forma de asegurar el camino hacia lo que desea la empresa. Estas pueden efectuarse según los datos que suministren el seguimiento y el control.
 
-    .row.justify-content-center.p-5
+    .row.justify-content-center.p-5(data-aos="fade-up-right")
       .col-xxl-5.col-xl-5.col-lg-6.col-md-10.col-sm-11.col-12
         p Los planes operativos alinean el plan estratégico de la empresa con el día a día real de la empresa.
         p Dirigir una empresa exitosa requiere prestar atención a cómo se cumplen los objetivos a diario, de ahí la necesidad de una planificación tan compleja.
@@ -66,9 +66,9 @@
           h5 Figura 5. 
           span Objetivos a corto plazo 
         img(src='@/assets/curso/tema3/figura1.svg')
-    p.mt-5 La asignación y gestión de recursos es fundamental en la planeación operativa porque indicará el presupuesto que se necesita para poner en marcha el plan, es decir, se identificará cuánto dinero requiere. A veces, se deben hacer ajustes para evitar el fracaso, y otras veces, deberá ajustar su plan para los próximos pasos, porque finalmente ha alcanzado sus límites estratégicos.
-    p.mb-5 Quien lleve a cabo la formulación de un plan operativo tendrá en cuenta los siguientes elementos de la organización:
-    .row.justify-content-center
+    p.mt-5(data-aos="fade-up") La asignación y gestión de recursos es fundamental en la planeación operativa porque indicará el presupuesto que se necesita para poner en marcha el plan, es decir, se identificará cuánto dinero requiere. A veces, se deben hacer ajustes para evitar el fracaso, y otras veces, deberá ajustar su plan para los próximos pasos, porque finalmente ha alcanzado sus límites estratégicos.
+    p.mb-5(data-aos="fade-right") Quien lleve a cabo la formulación de un plan operativo tendrá en cuenta los siguientes elementos de la organización:
+    .row.justify-content-center(data-aos="fade-up-left")
       .col-xxl-3.col-xxl-3.col-lg-4.col-md-11.col-sm-12.col-12
         ul.lista-ul--color
           li 
@@ -97,18 +97,18 @@
             | Calendario de la empresa
       .col-xxl-9.col-xxl-9.col-lg-8.col-md-11.col-sm-12.col-12
         img(src='@/assets/curso/tema3/imagen1.png')
-    p.my-5 Un plan operativo trata de comprender la visión de la empresa, crear objetivos a corto plazo y establecer los pasos concretos para realizarlos. Seguidamente, se describirán algunos pasos para desarrollar un plan operativo:
-    img.recoger(src='@/assets/curso/tema3/imagen3.svg')
-    .row.justify-content-center.subir
+    p.my-5(data-aos="fade-up-right") Un plan operativo trata de comprender la visión de la empresa, crear objetivos a corto plazo y establecer los pasos concretos para realizarlos. Seguidamente, se describirán algunos pasos para desarrollar un plan operativo:
+    img(data-aos="fade-up-left").recoger(src='@/assets/curso/tema3/imagen3.svg')
+    .row.justify-content-center.subir(data-aos="fade-up")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.m-0.pe-0
         img.correrder(src='@/assets/curso/tema3/grupo1.svg')
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.m-0.ps-0
         img.correrizq(src='@/assets/curso/tema3/grupo2.svg')
-    p.my-5 En el documento del plan operativo, se describen todas las actividades y objetivos para lograr los objetivos y metas establecidos en la planificación estratégica; cubre un período de un año. Un plan operativo también brinda detalles sobre los riesgos asociados y la sostenibilidad de los logros.
-    .row.justify-content-center
+    p.my-5(data-aos="fade-up-right") En el documento del plan operativo, se describen todas las actividades y objetivos para lograr los objetivos y metas establecidos en la planificación estratégica; cubre un período de un año. Un plan operativo también brinda detalles sobre los riesgos asociados y la sostenibilidad de los logros.
+    .row.justify-content-center.align-items-center(data-aos="fade-up-left")
       .col-xxl-3.col-xl-4.col-lg-5.col-md-5.col-sm-6.col-8.mb-4
         img(src='@/assets/curso/tema3/imagen4.png')
-      .col-xxl-5.col-xl-5.col-lg-5.col-md-7.col-sm-10.col-10.fondo12.p-5
+      .col-xxl-5.col-xl-5.col-lg-5.col-md-7.col-sm-10.col-10.fondo12.px-4.py-5
         p.text-bold Ejemplo de plan operativo
         span.text-bold Plan operativo: 
         span para el área de Producción.
@@ -124,20 +124,20 @@
         br
         span.text-bold Áreas: 
         span aprender a utilizar los nuevos equipos, identificar formas de reducir el desperdicio de producción, estrategias para mejorar los procedimientos asociados con el manejo de materiales.
-    p.mt-5 Otro ejemplo:
-    p.mb-5 Un productor de paletas que crea cinco (5) degustaciones diferentes dentro de una sola instalación. La planificación operativa implicará la organización de suministros de las líneas de producción, los turnos de trabajo y el espacio de almacenamiento para mantener unas cifras generales manejables.
-    .row.mb-5
-      .col-xxl-4.col-xl-5.col-lg-5.col-md-7.col-sm-8.col-11
-        h4.ps-5.mb-0.fondo6.pb-0 Puntos clave del plan operativo
-    .row.mb-5
+    p.mt-5(data-aos="fade-up-right") Otro ejemplo:
+    p.mb-5(data-aos="fade-up-left") Un productor de paletas que crea cinco (5) degustaciones diferentes dentro de una sola instalación. La planificación operativa implicará la organización de suministros de las líneas de producción, los turnos de trabajo y el espacio de almacenamiento para mantener unas cifras generales manejables.
+    .row.mb-5(data-aos="fade-up-right")
+      .col-auto
+        h4.ps-5.pb-2.mb-0.fondo6 Puntos clave del plan operativo
+    .row.mb-5(data-aos="fade-up")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-11.col-sm-11.col-12
         p Para desarrollar los planes operativos, las estrategias deben estar orientadas a corregir las necesidades del lugar de trabajo y la caracterización y aprovechamiento de oportunidades de mejora. Los objetivos han de ser claros, estableciendo las actividades a entregar y los resultados deseados, además de asumir que para el desarrollo del plan ha de contar con recurso humano, dinero, líneas de tiempo, monitoreo y seguimiento. Tenga presente observar el contexto interno y externo que pueda impactar el plan.
         p Las actividades diarias que efectúan los colaboradores de una organización son la piedra angular para crear los planes operativos, ya que es a través de ellas que se practica el análisis de los procesos que están preocupando las finanzas de la empresa, así como la eficacia y efectividad en la productividad, y es por ello que se hace uso de planear operativamente objetivos cortos que contribuyan a reducir las falencias presentadas en las funciones que desempeñan los diferentes trabajadores. También la planificación operativa se ejecuta para apoyar la planificación estratégica y así lograr los objetivos de la organización.
       .col-xxl-6.col-xl-6.col-lg-6.col-md-10.col-sm-11.col-12
         img.mb-4(src='@/assets/curso/tema3/imagen5.svg')
-    .cajon.color-primario.p-4.mb-4.fondo16
+    .cajon.color-primario.p-4.mb-4.fondo16(data-aos="fade-up-right")
       p Una vez se hayan establecido los objetivos a corto plazo, se ha de estimar los medios y recursos necesarios para alcanzar el logro de los resultados. Asimismo, es importante que formule las actividades, estrategias y operaciones que servirán de base para lograr los objetivos propuestos y cambiar la realidad que motivó la construcción del plan operativo.
-    p.text-center A continuación, se presentan varias características de los planes operativos:
+    p.text-center(data-aos="fade-up-left") A continuación, se presentan varias características de los planes operativos:
     SlyderF.colorchevron.my-5(data-aos="fade-up")(columnas="col-lg-4 col-xl-4 col-md-6 col-sm-12 col-12")
       .tarjeta-avatar
         img.imgsize2(src='@/assets/curso/tema3/slider3-1.svg')
@@ -164,15 +164,15 @@
         .tarjeta.otra4.fondo4
           .text-dark.p-4
             p.text-center Los objetivos cortos que se formulan en el plan operativo han de monitorear los estándares de calidad.
-    .row.mb-5
-      .col-xxl-7.col-xl-8.col-lg-9.col-md-12.col-sm-12.col-12
-        h4.ps-5.mb-0.fondo6.pb-1 Diferencias entre la planeación estratégica y la planeación operativa
-    figure.mb-5
+    .row.mb-5(data-aos="fade-up-right")
+      .col-auto
+        h4.ps-5.pb-2.mb-0.fondo6 Diferencias entre la planeación estratégica y la planeación operativa
+    figure.mb-5(data-aos="fade-up-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
-    p.my-5 Entendiéndose la planeación estratégica como la madre de todos los planes de una organización, se establece a continuación un versus diferenciador entre lo que entrega cada una de ellas, una vez se diseñen y se efectúen.
-    .tabla-c
+    p.my-5(data-aos="fade-up-right") Entendiéndose la planeación estratégica como la madre de todos los planes de una organización, se establece a continuación un versus diferenciador entre lo que entrega cada una de ellas, una vez se diseñen y se efectúen.
+    .tabla-c(data-aos="fade-up")
       table
         tr
           th.fondoEncabezado 
@@ -200,11 +200,11 @@
         tr
           td •	Objetivos a largo plazo.
           td •	Objetivos a corto plazo.
-    .row.justify-content-center.my-5
+    .row.justify-content-center.my-5(data-aos="fade-up-right")
       .col-xxl-10.col-xl-10.col-lg-10.col-md-11.col-sm-12
         .cajon.color-primario.p-4.mb-4.fondo16
           p En resumen, la planificación operativa es decidir qué se debe hacer para lograr los objetivos tácticos, mediante planes con objetivos a corto plazo que pueden contar con una duración menor a un año, y que, asimismo, este plan puede variar cada año, es estrecho y se enfatiza en las actividades diarias y los niveles funcionales de una dependencia específica de la empresa.
-    .tabla-c
+    .tabla-c(data-aos="fade")
       table
         tr
           td.fondoEncabezado
