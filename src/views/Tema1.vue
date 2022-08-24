@@ -76,7 +76,7 @@
           .tarjeta.fondotarjeta.p-3(x="88.5%" y="92%" numero="+")
             p Estudiar y transformar los problemas o circunstancias de riesgo en la empresa en situaciones de oportunidad; por tanto, la creación de secuencias y relaciones que entrega el proceso administrativo ofrece la coordinación y control de actividades en la empresa.
     p.text-center.mb-5(data-aos="fade-down-right") Aquí, algunas de las ventajas de aplicar el proceso administrativo:
-    SlyderF.my-5(columnas="col-lg-4 col-xl-4")
+    SlyderF(data-aos="fade-down-left").my-5(columnas="col-lg-4 col-xl-4")
       .tarjeta-avatar
         img.imgsize(src='@/assets/curso/tema1/slider2-1.svg')
         .tarjeta.otra.fondo4
@@ -126,22 +126,26 @@
     #politicas.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 1.1. Políticas organizacionales
     p.mb-5(data-aos="fade-down-right") Las organizaciones utilizan políticas y procedimientos para diseñar reglas, diseñar cursos de acción para abordar los problemas.
-    .row(data-aos="fade-down-left")
-      .col-xxl-6.col-xl-6.col-lg-6.col-md-11.col-sm-12.col-12
-        .tarjeta.fondo2.p-3.mb-5
-          SlyderA(tipo="b")
-            .row.justify-content-center
-              .col-xxl-10.col-xl-10.col-lg-10.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
-                p.mt-3 1. Las políticas y procedimientos de la organización son utilizados para que los empleados entiendan los puntos de vista y valores sobre temas específicos y lo que ocurrirá si no se siguen.
-            .row.justify-content-center
-              .col-xxl-10.col-xl-10.col-lg-10.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
-                p.mt-3 2. Las políticas son explicaciones generales de cómo quiere comportarse una organización, y los procedimientos definen exactamente cómo hacer una tarea o realizarla paso a paso. 
-            .row.justify-content-center
-              .col-xxl-10.col-xl-10.col-lg-10.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
-                p.mt-3 3. Las políticas organizacionales también se definen como las reglas que los colaboradores deben seguir para que el negocio funcione sin problemas; algunas están destinadas a proporcionar orientación y ser útiles para los colaboradores.
-      .col-xxl-5.col-xl-5.col-lg-5.col-md-11.col-sm-12.col-12.mb-4
-        img.imgsize1(src='@/assets/curso/tema1/imagen2.png')
-    p(data-aos="fade-down") Otras apuntan a proteger el negocio de amenazas legales y advierten a los empleados que no hagan ciertas cosas.
+    .row.justify-content-center(data-aos="fade-down-left")
+      .col-xxl-6.col-xl-6.col-lg-12.col-md-12
+        .row
+          .col-xxl-12
+            .tarjeta.fondo2.p-3.mb-4.mt-3
+              SlyderA(tipo="b")
+                .row.justify-content-center
+                  .col-xxl-10.col-xl-10.col-lg-12.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
+                    p.mt-4 1. Las políticas y procedimientos de la organización son utilizados para que los empleados entiendan los puntos de vista y valores sobre temas específicos y lo que ocurrirá si no se siguen.
+                .row.justify-content-center
+                  .col-xxl-10.col-xl-10.col-lg-10.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
+                    p.mt-4 2. Las políticas son explicaciones generales de cómo quiere comportarse una organización, y los procedimientos definen exactamente cómo hacer una tarea o realizarla paso a paso. 
+                .row.justify-content-center
+                  .col-xxl-10.col-xl-10.col-lg-10.col-md-11.col-sm-11.col-11.mb-4.mb-md-0
+                    p.mt-4 3. Las políticas organizacionales también se definen como las reglas que los colaboradores deben seguir para que el negocio funcione sin problemas; algunas están destinadas a proporcionar orientación y ser útiles para los colaboradores.
+      .col-xxl-5.col-xl-5.col-lg-12.col-md-12
+        .row
+          .col-xxl-10.col-xl-10.col-lg-12.col-md-11.col-sm-12.col-12
+            img(src='@/assets/curso/tema1/imagen2.png')
+    p.mt-5(data-aos="fade-down") Otras apuntan a proteger el negocio de amenazas legales y advierten a los empleados que no hagan ciertas cosas.
     p.mb-5(data-aos="fade-down-left") Ejemplo: la organización puede tener una política para efectuar seguridad y evitar el acceso no autorizado a las instalaciones de la organización. La política puede establecer que el público puede acceder solo hasta la recepción, y más allá de la recepción, solo se permite el ingreso a colaboradores. Lo anterior se fortalece complementando la política así:  todos los empleados deben identificarse haciendo uso del carné de trabajo y con escaneo biométrico de huellas dactilares para ingresar a las diferentes oficinas de la organización.
     .row.justify-content-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-11.col-sm-12.col-12
@@ -185,7 +189,7 @@
           .text-dark.p-4
             p.text-center Jornada laboral.
     .row.mb-5(data-aos="fade-down-right")
-      .col-xxl-7.col-xl-8.col-lg-10.col-md-12
+      .col-xxl-7.col-xl-8.col-lg-12.col-md-12
         h4.ps-5.mb-0.fondo5 Beneficios que obtiene la organización con la implementación de las políticas:
     TabsA.color-acento-contenido.mb-5(data-aos="fade-up-left")
       .tarjeta.otra2.fondo2.p-4(titulo="Reducir los costos")
@@ -219,7 +223,7 @@
 
     .tarjeta.fondo7.p-4
       PasosB.color-acento-botones
-        .row.px-5(titulo="")
+        .row.px-4(titulo="")
           .col-md-6.mb-4.mb-md-0
             p.text-bold 1. Políticas de vestuario
             p Varias empresas requieren que los empleados se vistan de una manera particular cuando están en el trabajo, a los hombres se les puede exigir que usen corbata y a las mujeres se les puede pedir que se vistan de manera adecuada. Si los trabajadores están tratando con el público, se les podría exigir que usen uniformes que promuevan la imagen de la empresa y afiancen la identidad corporativa.
@@ -229,7 +233,7 @@
             figure
               img(src='@/assets/curso/tema1/tiempo1.png')
 
-        .row.px-5(titulo="")
+        .row.px-4(titulo="")
           .col-md-6.mb-4.mb-md-0
             p.text-bold 2. Políticas de valoración de desempeño
             p El objetivo de estas políticas es identificar áreas de mejora y motivar a los trabajadores para lograr mejores resultados. Por ello, se diseñan políticas que describan la frecuencia y observación de desempeño del colaborador. Las observaciones de desempeño aclaran las responsabilidades de un empleado y establecen metas, además, describen la base para medir el desempeño y los pasos necesarios para recibir una bonificación o un aumento de salario.
@@ -238,7 +242,7 @@
             figure
               img(src='@/assets/curso/tema1/tiempo2.png')
 
-        .row.px-5(titulo="")
+        .row.px-4(titulo="")
           .col-md-6.mb-4.mb-md-0
             p.text-bold 3. Políticas comerciales
             p Las políticas comerciales establecen las reglas de conducta de una empresa. Estas sí que son importantes en el clima organizacional, ya que no solo describen las responsabilidades del jefe y los colaboradores, sino que también crean un marco de referencia para manejar el acervo de problemas que surgen en una organización.
@@ -247,7 +251,7 @@
             figure
               img(src='@/assets/curso/tema1/tiempo3.png')
 
-        .row.px-5(titulo="")
+        .row.px-4(titulo="")
           .col-md-6.mb-4.mb-md-0
             p.text-bold 4. Políticas de imparcialidad
             p La empresa debe dejar muy claro que ella promueve el trato justo en el lugar de trabajo. Estas políticas prohíben el comportamiento discriminatorio de los supervisores y empleados por motivos de raza, sexo, creencias religiosas u orientación sexual. Cuando existen políticas de igualdad, ellos tienen actitudes más positivas hacia su trabajo y son más productivos.
@@ -256,7 +260,7 @@
             figure
               img(src='@/assets/curso/tema1/tiempo4.png')
 
-        .row.px-5(titulo="")
+        .row.px-4(titulo="")
           .col-md-6.mb-4.mb-md-0
             p.text-bold 5. Políticas de seguridad de información
             p Dado que la mayoría de empresas trabajan ahora bajo la compañía de un <i>software</i> y este se usa en casi todos los trabajos, las empresas necesitan políticas que rijan el uso de la información de los equipos que disponen de este <i>software</i> para actividades personales. Por motivos de seguridad, las empresas pueden pedir a los empleados que firmen un documento que permita a una empresa controlar la actividad de Internet y los correos electrónicos de sus trabajadores.
@@ -294,15 +298,15 @@
                 img(src='@/assets/curso/tema1/imagen6.png')
             .col-md-7.mb-4.mb-md-0
               p Organice una reunión en la empresa para darlas a conocer; los líderes tendrán la gran responsabilidad de contribuir en la implementación y obediencia de estas nuevas políticas. Informe la necesidad que existió de formular estos lineamientos y brinde un resumen de los detalles más importantes; haga uso de unas semanas pedagógicas para la inserción de las nuevas políticas en el área de trabajo.
-        .row.ampliar.fondo8(data-aos="fade-down-right")
-          .col-xxl-12.px-5
-            separador
-            #gestion.titulo-segundo.color-acento-contenido
-              h2 1.2. Gestión del talento humano
-            p.mb-5 El propósito principal de la gestión del talento es crear una fuerza laboral motivada, que permanezca en su empresa a largo plazo, superando a la competencia a través de un sistema integrado de prácticas de gestión del talento que sean difíciles de copiar o imitar. La importancia que tiene el talento humano para la organización es que capitaliza a los empleados, posiblemente, el activo más importante de su empresa.
-            .row.justify-content-center
-              .col-xxl-4.col-xl-4.col-lg-5.col-md-10.col-sm-11.col-11.mb-5
-                img(src='@/assets/curso/tema1/figura3.svg')
+    .row.ampliar.fondo8(data-aos="fade-down-right")
+      .col-xxl-12.px-5
+        separador
+        #gestion.titulo-segundo.color-acento-contenido
+          h2 1.2. Gestión del talento humano
+        p.mb-5 El propósito principal de la gestión del talento es crear una fuerza laboral motivada, que permanezca en su empresa a largo plazo, superando a la competencia a través de un sistema integrado de prácticas de gestión del talento que sean difíciles de copiar o imitar. La importancia que tiene el talento humano para la organización es que capitaliza a los empleados, posiblemente, el activo más importante de su empresa.
+        .row.justify-content-center
+          .col-xxl-4.col-xl-4.col-lg-5.col-md-10.col-sm-11.col-11.mb-5
+            img(src='@/assets/curso/tema1/figura3.svg')
     .row.mb-5(data-aos="fade-down-right")
       .col-auto
         h4.ps-5.pb-2.mb-0.fondo6 Proceso de gestión del talento
@@ -407,7 +411,7 @@
             h4 Ventajas
         tr
           th 
-            h5 Vincular a los mejores colaboradores.
+            h4 Vincular a los mejores colaboradores.
           td 
             ul.lista-ul
               li 
@@ -421,7 +425,7 @@
                 | Preparado para los desafíos y riesgos.
         tr
           th 
-            h5 Contratar expertos capacitados y desarrollarlos.
+            h4 Contratar expertos capacitados y desarrollarlos.
           td 
             ul.lista-ul
               li 
@@ -435,7 +439,7 @@
                 | Necesario si tiene una necesidad urgente de talento.
         tr
           th 
-            h5 Explotar la colaboración, tenacidad y respeto mutuo en el equipo de trabajo.
+            h4 Explotar la colaboración, tenacidad y respeto mutuo en el equipo de trabajo.
           td 
             ul.lista-ul
               li 
