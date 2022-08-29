@@ -231,8 +231,8 @@
     p.mb-5(data-aos="fade-down-right") Las acciones de mejora son gestionadas por la organización para centralizar las actividades y alinearlas con las normas, estándares y la protección de datos. Las acciones de mejora se pueden asignar a los colaboradores de la organización para realizar trabajos de implementación. Para hablar de una adecuada implementación de acciones de mejora, es necesario contar con la utilización de las diferentes técnicas de análisis de causas que permiten conocer los síntomas y problemas que están dando paso a las vulnerabilidades y riesgos de la organización.
     figure.mb-5(data-aos="fade-down-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ZhwkNEQWqx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     p.mt-5(data-aos="fade-down-right") Las técnicas de análisis de causas son procedimientos para identificar los factores de los problemas y cómo poder responder a ellos, se basan en la idea de que la gestión eficaz debe encontrar una manera de prevenir los problemas antes de que ocurran y afecten el trabajo de la organización. Por lo anterior, son un referente en la resolución de problemas para analizar, mejorar y controlar, ya que, al identificar la causa, la organización puede encontrar una solución permanente para reducir o eliminar la posibilidad de que vuelvan a ocurrir en el futuro. Juegan un papel importante en el desarrollo lógico de acciones de mejora para resolver los problemas.
     p.mb-5(data-aos="fade-down-left") A continuación, se indican algunas de estas técnicas útiles para poder formular acciones de mejora pertinentes:
     .tarjeta.fondo2.p-4.mb-5(data-aos="fade-down-right")

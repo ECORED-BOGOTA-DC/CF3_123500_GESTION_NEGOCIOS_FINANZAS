@@ -169,8 +169,7 @@
         h4.ps-5.pb-2.mb-0.fondo6 Diferencias entre la planeación estratégica y la planeación operativa
     figure.mb-5(data-aos="fade-up-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/1yAOUdaaYxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.my-5(data-aos="fade-up-right") Entendiéndose la planeación estratégica como la madre de todos los planes de una organización, se establece a continuación un versus diferenciador entre lo que entrega cada una de ellas, una vez se diseñen y se efectúen.
     .tabla-c(data-aos="fade-up")
       table

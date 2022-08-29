@@ -649,8 +649,8 @@
     p.mb-5(data-aos="fade-down-right") La política comercial promueve el crecimiento económico a través de regulaciones y acuerdos que controlan las importaciones y exportaciones con otros países, desde acuerdos de libre comercio hasta tratados, impactando así la economía y las finanzas.
     figure.mb-5(data-aos="fade-down-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/FWXq-BjMpAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     p(data-aos="fade-down-right") La política comercial se refiere a los acuerdos y regulaciones que rodean las importaciones y exportaciones entre diferentes países, se utiliza para promover el crecimiento económico y la competitividad.
     p.mb-5(data-aos="fade-down") Los principales instrumentos de la política comercial son:
     .row.justify-content-center(data-aos="fade-down-right")
